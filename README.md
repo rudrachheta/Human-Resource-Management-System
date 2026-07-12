@@ -135,3 +135,16 @@ This project was built to go beyond typical CRUD/web-app portfolio pieces and sh
 - Defensive, crash-safe file I/O
 
 ---
+# 👨‍💻 Authors
+
+**Rudra Chheta**
+
+B.Tech Information Technology
+
+# 📜 License
+
+This project is developed for **academic and educational purposes**.
+
+---
+
+# ⭐ If you found this project useful, please consider giving it a Star on GitHub!
